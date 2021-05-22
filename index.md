@@ -1,3 +1,3 @@
-[Messy File](https://mariavanv.github.io/367Final/html/Messy.html)
+[Messy File](https://mariavanv.github.io/367Final/Messy.html)
 
-[Final File](https://mariavanv.github.io/367Final/html/Final.html)
+[Final File](https://mariavanv.github.io/367Final/Final.html)
